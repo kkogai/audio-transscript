@@ -26,6 +26,11 @@
 brew install uv
 ```
 
+```bash
+# ffmpeg がない場合
+brew install ffmpeg
+```
+
 ## 使い方
 
 ```bash
